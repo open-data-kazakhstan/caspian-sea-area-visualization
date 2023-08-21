@@ -20,7 +20,7 @@ After obtaining the images, we utilized the Healing Brush tool and color matchin
 - caspian_graph.py contains the matplotlib code to build a line graph based on the DAHITI data
 
 ### Data Overview:
-- 'caspian.csv': CSV file containing water area data based on UNESCO records
+- 'caspian.csv': CSV file containing water area data based on DAHITI data
 - '[caspian_mosaics_raw]([https://drive.google.com/drive/folders/1ahn_LBG-EQzTmfE11JIhwBTP4Y917j8s?usp=drive_link](https://drive.google.com/drive/folders/1m99LPTxmPq9A5Q2w2cSceA6toEuc02qn?usp=sharing))': Folder with initial images collected via 'main.py'
 - '[caspian_mosaics_edited]([https://drive.google.com/drive/folders/1phCYtP0CS9inrxAEgmZBY3Jw4Zf6jCST?usp=drive_link](https://drive.google.com/drive/folders/1eXmhIO5ECvuuFB3Rs1mJhd9iFIt-axoC?usp=sharing))': Folder with images after post-processing in Photoshop
 
