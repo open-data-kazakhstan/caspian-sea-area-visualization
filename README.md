@@ -11,6 +11,7 @@ To obtain the images, we used 'main.py' with the Earth Engine API and geemap in 
 
 After obtaining the images, we utilized the Healing Brush tool and color matching in Adobe Photoshop to enhance consistency between pictures taken over the years. While the brush sacrifices some land details, the scope of this project focuses on the water area, which has remianed largely untouched after the edits. Additionally, we employed DaVinci Resolve to create smooth transitions between the images, color match and brighten them, add year and area data, and finalize the video editing.
 
+
 ### Data Sources:
 - Water level data for the Caspian Sea is graciously provided by the Deutsches Geodätisches Forschungsinstitut Technische Universität München, specifically the DAHITI study 'Schwatke, C., Dettmering, D., Bosch, W., and Seitz, F.: DAHITI - an innovative approach for estimating water level time series over inland waters using multi-mission satellite altimetry: , Hydrol. Earth Syst. Sci., 19, 4345-4364, doi:10.5194/hess-19-4345-2015, 2015': [https://dahiti.dgfi.tum.de/en/39/water-level-altimetry/]
 
@@ -25,7 +26,7 @@ After obtaining the images, we utilized the Healing Brush tool and color matchin
 
 ### Comparison between raw and edited images based on previous project with the exact same methodology:
 
-![Screenshot 2023-08-04 at 10 58 32](https://github.com/open-data-kazakhstan/-sea-area-visualization/assets/109875855/821115c2-4fc1-43fb-ad3e-98b1852d54ea)
+
 
 ### Resulting line graph:
 
