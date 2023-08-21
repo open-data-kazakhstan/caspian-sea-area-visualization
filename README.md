@@ -26,7 +26,7 @@ After obtaining the images, we utilized the Healing Brush tool and color matchin
 
 ### Comparison between raw and edited images based on previous project with the exact same methodology:
 
-
+![image](https://github.com/open-data-kazakhstan/caspian-sea-area-visualization/assets/109875855/261ae058-2c9c-4cd1-8169-8a1dd33b7e14)
 
 ### Resulting line graph:
 
